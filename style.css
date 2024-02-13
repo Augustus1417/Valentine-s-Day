@@ -22,7 +22,7 @@ button {
 
 }
 .container{
-    max-width: 600px;
+    width: 300px;
     margin: 0 auto;
     background-color: #ffffff;
     border-radius: 20px;
@@ -59,7 +59,7 @@ footer{
     font-size: 0.8em;
 }
 #dog{
-    width: 400px;height: 400px;
+    width: 350px;height: 350px;
     margin-bottom: 10px;
     display: block;
     margin: auto;
