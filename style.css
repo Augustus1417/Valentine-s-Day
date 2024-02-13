@@ -17,9 +17,11 @@ button {
     border-width: 2px;
     border-color: #afafaf;
 }
-#clickme{
-    font-size: 30px;
-
+#clickme1{
+    font-size:30px;
+}
+#clickme2{
+    font-size:20px;
 }
 .container{
     width: 300px;
@@ -51,7 +53,7 @@ img{
 p{
     line-height: 1.6;
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 12px;
     text-align: justify;
 }
 footer{
@@ -63,4 +65,7 @@ footer{
     margin-bottom: 10px;
     display: block;
     margin: auto;
+}
+#header1{
+    font-size: 16px;
 }
